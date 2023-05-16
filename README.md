@@ -2,12 +2,15 @@
 HIMAWARI-8 Processing using GADI
 
 Codes are provided by : 
+
 Clemente Lopez-Bravo PhD, University of New South Wales, Australia
 
 Editor:
+
 Fadhlil Rizki Muhammad MSc, University of Melbourne, Australia
 
 Supervisor:
+
 Dr Claire Vincent, University of Melbourne, Australia.
 
 {===================[]===================================}
