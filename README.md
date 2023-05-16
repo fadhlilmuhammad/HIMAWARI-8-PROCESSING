@@ -20,9 +20,7 @@ This repository provides the tutorial for processing the himawari-8 dataset. The
 2. Preparing Ancillary data for GEOCAT
 3. Extracting the raw Himawari-8 bands with corrected projection for Australia
 4. Extracting the L1 and L2 variables
-
-To be added:
-1. Plotting functions
+5. Sample plot using Jupyter notebook.
 
 {=========================================================}
 
