@@ -25,3 +25,12 @@ To be added:
 1. Plotting functions
 
 {=========================================================}
+
+HOW TO USE:
+
+1. Download "starter.sh" to your GADI account.
+2. Change variables "proj" and "uname" to your own.
+3. run starter.sh in your terminal (sh starter.sh)
+
+This will download all the tutorial datasets and script to your GADI account.
+
