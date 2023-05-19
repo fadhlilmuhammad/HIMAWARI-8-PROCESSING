@@ -3,7 +3,8 @@ HIMAWARI-8 Processing using GADI
 
 Codes are provided by : 
 
-Clemente Lopez-Bravo PhD, University of New South Wales, Australia
+Clemente Lopez-Bravo PhD, University of Melbourne, Australia
+
 Fadhlil Rizki Muhammad MSc, University of Melbourne, Australia
 
 Editor:
